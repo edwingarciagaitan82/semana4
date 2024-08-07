@@ -1,0 +1,21 @@
+{
+  "name": "servidordos",
+  "version": "1.0.0",
+  "description": "Servidor en Node Js para pruebas",
+  "main": "index.js",
+  "scripts": {
+    "ejecutar": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"fullstack",
+    "dev",
+    "backend\""
+  ],
+  "author": "edu",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^3.1.4"
+  }
+}
